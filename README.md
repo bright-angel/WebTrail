@@ -14,6 +14,12 @@
 - **规则管理**：支持规则的优先级排序、导出与导入（JSON 格式）。
 - **现代化 UI**：基于 Bootstrap 5 与 Bootstrap Icons 构建。
 
+
+
+https://github.com/user-attachments/assets/5afcd5e9-4c94-4ad2-85c3-d6e8f866d15a
+
+
+
 ## 🛠️ 环境要求
 
 - **Python**: 3.12+
