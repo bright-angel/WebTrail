@@ -22,7 +22,6 @@ https://github.com/user-attachments/assets/5afcd5e9-4c94-4ad2-85c3-d6e8f866d15a
 
 ## 🛠️ 环境要求
 
-- **Python**: 3.12+
 - **Wireshark/Tshark**: 系统必须安装 `tshark` 并在环境变量中可用（用于解析 PCAP）。
 - **SQLite**: 默认使用 SQLite 存储（位于 `instance/` 目录）。
 
